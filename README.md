@@ -1,1 +1,2 @@
 # SQL
+The "AI-Enhanced Job Matching Platform" SQL project focuses on efficiently managing and querying data to facilitate better job matches between candidates and employers. In this project, SQL techniques such as joins, subqueries, and views have been implemented to handle complex data relationships.SQL-driven structure underpins the AI algorithms by ensuring that the data is well-organized and easily accessible for further analysis and machine learning processes.
